@@ -6,6 +6,8 @@ public class TestGit192 {
         //下面接龙同学们自己的代码修改
         stuInfo("19406040228","徐逸群");
         stuInfo("19406040219","胡智岚");
+        stuInfo("19406040229","郭佳俊");
+        stuInfo("19406040240","蔡名卓");
     }
 
     public static void stuInfo(String sid, String sname) {
